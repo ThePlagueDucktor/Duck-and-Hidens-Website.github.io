@@ -1,0 +1,24 @@
+body {
+background-color: #e60000;
+text-align: center;
+}
+
+ol {
+color: white;
+font-size: 150%;
+text-align: center;
+list-style-position: inside
+}
+
+li {
+color: white;
+font-size: 150%;
+text-align: center;
+font-weight: bold;
+font-size: 115%
+}
+
+h1 {
+color: white;
+font-size: 250%
+}

@@ -1,0 +1,42 @@
+body {
+background-color:#34c6eb;
+font-family:Helvetica;
+text-align:center;
+line-height: 1.4
+} 
+
+.center {
+margin-left:auto;
+margin-right:auto
+}
+	
+table {
+border:3px Solid Blue;
+color:Brown;
+padding: 8px;
+font-size: 120%;
+width: 50%
+}
+
+td {
+border:3px Solid Blue;
+color:Brown;
+padding: 8px;
+font-size: 120%
+}
+
+th {
+border:3px Solid Blue;
+color:Brown;
+padding: 8px;
+font-size:200%
+}
+
+h1 {
+font-size:300%;
+letter-spacing: 2px
+}
+
+a {
+color: purple
+}
