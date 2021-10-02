@@ -1,0 +1,20 @@
+body {
+text-align: Center;
+font-family: Helvetica;
+background-image: url('images/Background.jpg');
+line-height: 1.8;
+line-spacing: 3.5
+}
+
+h1 {
+font-size: 400%;
+color: red;
+letter-spacing: 1.8px;
+font-family: Arial
+}
+
+a {
+font-weight: bold;
+font-size: 325%;
+color: #0cc702
+}
