@@ -1,2 +1,2 @@
-# Duck's and Taco's website
-This is a website that is owned by EpicTaco and GoodbyeGalaxy.
+# Max's and HIDEN's website
+This is a website that is owned by HIDEN64 and Max.
