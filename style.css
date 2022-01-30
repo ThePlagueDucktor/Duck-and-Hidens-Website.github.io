@@ -1,0 +1,120 @@
+body {
+    text-align: Center;
+    font-family: Helvetica;
+    line-height: 1.8;
+}
+
+p {
+    font-size: 110%;
+    color: white;
+    font-weight: bold;
+}
+    
+span {
+    font-size: 300%; 
+    color: #00FF62; 
+    font-family: Helvetica
+}
+
+td, tr, th {
+    border: solid white;
+}
+
+.linkstable {
+    border:3px solid Blue;
+    color:Brown;
+    padding: 2px;
+    font-size: 120%;
+    width: 50%;
+    margin-left:auto;
+    margin-right:auto
+}
+  
+.homebackground {
+    background-image: url('images/Background.jpg');
+}
+
+.musicbackground {
+    background-color: #3483eb;
+}
+
+.linksbackground {
+    background-color:#34c6eb;
+}
+
+.linkspagelink:link {
+    color: #690CFF
+}
+
+.linkspagelink:visited {
+    color: #AA00FF
+}
+
+.linkspagelink:hover {
+    color: #FF00DC
+}
+
+.linkspagelink:active {
+    color: #57007F
+}
+
+.homeh1 {
+    color: red;
+    font-size:330%;
+    letter-spacing: 2px
+}
+
+.linksh1 {
+    color: darkred;
+    font-size:260%;
+    letter-spacing: 2px
+}
+    
+.homelinks:link { 
+    font-weight: bold;
+    font-size: 300%;
+    color: #0CC702  
+}
+
+.homelinks:visited {
+    color: #00FFFF
+}
+
+.homelinks:hover {
+    color: #00FF00
+}
+
+.homelinks:active {
+    color: #008E00
+}
+
+.cokebackground {
+    background-color: #e60000;
+}
+
+.cokelist {
+    color: white;
+    font-size: 135%;
+    text-align: center;
+    font-weight: bold;
+    list-style-position: inside
+}
+
+.cokeh1 {
+    color: white;
+    font-size: 210%;
+    text-align: center
+}
+
+.downloadstable { 
+    border:3px solid white;
+    padding: 2px;
+    font-size: 120%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.downloadsbackground {
+    background-color: #301934;  
+}
