@@ -10,11 +10,6 @@ p {
     font-weight: bold;
 }
     
-span {
-    font-size: 300%; 
-    color: #00FF62; 
-    font-family: Helvetica
-}
 
 td, tr, th {
     border: solid white;
@@ -117,4 +112,26 @@ td, tr, th {
 
 .downloadsbackground {
     background-color: #301934;  
+}
+
+.backbutton {
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+  
+.backbutton:hover {
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.musicheader {
+    font-size: 300%; 
+    color: #00FF62; 
+    font-family: Helvetica
 }
